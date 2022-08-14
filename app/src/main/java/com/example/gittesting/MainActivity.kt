@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Hello, first commit")
         println("Student")
+        println("Hello from your friend :) ")
     }
 }
